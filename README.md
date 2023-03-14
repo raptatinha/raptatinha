@@ -24,12 +24,14 @@ E com mais de 18 anos de experiência com Tecnologia, estou aqui para compartilh
 I'm Renata Andrade, Software Quality Engineer, Brazilian living in the Bay Area - California - USA.
 
 I love inspiring IT professionals seeking for ways to improve their work.
+With over 18 years of experience in IT, I'm here to share the most innovative content I've experienced.
 
 - 🔭 I’m currently working on [Playwright](https://playwright.dev/) content.
 - 👯 I offer mentorship about Software Quality, Software Engineering and Tecnology in general. [Find more here](https://testingwithrenata.com/mentorship/).
 - 🔥 I'm available for meetups e talks. [Get in touch](https://testingwithrenata.com/contact-me/).
 - 💬 Ask me about Brazil.
-- 📫 How to reach me: [hello@testingwithrenata.com](mailto:hello@testingwithrenata.com)
+- 📫 How to reach me: [hello@testingwithrenata.com](mailto:hello@testingwithrenata.com).
 - 💁‍♀️ Personal Blog: https://raptatinha.wordpress.com/.
 - ☕ Fun fact: I don't like coffee.
+
 ---
