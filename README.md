@@ -2,6 +2,7 @@
 
 ---
 🇧🇷
+
 Eu sou a Renata Andrade, Software Quality Engineer, mineira e morando no Vale do Silício – Califórnia nos Estados Unidos.
 
 Eu amo inspirar profissionais de TI em busca de fazer um trabalho melhor. 
@@ -18,6 +19,8 @@ E com mais de 18 anos de experiência com Tecnologia, estou aqui para compartilh
 ---
 
 🇺🇸
+
+
 I'm Renata Andrade, Software Quality Engineer, Brazilian living in the Bay Area - California - USA.
 
 I love inspiring IT professionals seeking for ways to improve their work.
