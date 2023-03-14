@@ -1,5 +1,6 @@
 ### Olá! Hi! 👋
 
+---
 🇧🇷
 Eu sou a Renata Andrade, Software Quality Engineer, mineira e morando no Vale do Silício – Califórnia nos Estados Unidos.
 
@@ -14,6 +15,8 @@ E com mais de 18 anos de experiência com Tecnologia, estou aqui para compartilh
 - 💁‍♀️ Blog pessoal: https://raptatinha.wordpress.com/.
 - ☕ Fun fact: Não gosto de café.
 
+---
+
 🇺🇸
 I'm Renata Andrade, Software Quality Engineer, Brazilian living in the Bay Area - California - USA.
 
@@ -26,3 +29,4 @@ I love inspiring IT professionals seeking for ways to improve their work.
 - 📫 How to reach me: [hello@testingwithrenata.com](mailto:hello@testingwithrenata.com)
 - 💁‍♀️ Personal Blog: https://raptatinha.wordpress.com/.
 - ☕ Fun fact: I don't like coffee.
+---
