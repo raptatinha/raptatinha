@@ -1,16 +1,28 @@
-### Hi there 👋
+### Olá! Hi! 👋
 
-<!--
-**raptatinha/raptatinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇧🇷
+Eu sou a Renata Andrade, Software Quality Engineer, mineira e morando no Vale do Silício – Califórnia nos Estados Unidos.
 
-Here are some ideas to get you started:
+Eu amo inspirar profissionais de TI em busca de fazer um trabalho melhor. 
+E com mais de 18 anos de experiência com Tecnologia, estou aqui para compartilhar o que tenho experienciado de mais inovador.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou focando em conteúdos sobre [Playwright](https://playwright.dev/).
+- 👯 Ofereço mentorias sobre Qualidade de Software, Engenharia de Software e Tecnologia em geral. [Saiba mais aqui](https://testingwithrenata.com/mentorship/).
+- 🔥 Estou disponível para meetups e palestras. [Entre em contato por aqui](https://testingwithrenata.com/contact-me/).
+- 💬 Me pergunte sobre morar nos Estados Unidos.
+- 📫 Se preferir, mande um email: [hello@testingwithrenata.com](mailto:hello@testingwithrenata.com).
+- 💁‍♀️ Blog pessoal: https://raptatinha.wordpress.com/.
+- ☕ Fun fact: Não gosto de café.
+
+🇺🇸
+I'm Renata Andrade, Software Quality Engineer, Brazilian living in the Bay Area - California - USA.
+
+I love inspiring IT professionals seeking for ways to improve their work.
+
+- 🔭 I’m currently working on [Playwright](https://playwright.dev/) content.
+- 👯 I offer mentorship about Software Quality, Software Engineering and Tecnology in general. [Find more here](https://testingwithrenata.com/mentorship/).
+- 🔥 I'm available for meetups e talks. [Get in touch](https://testingwithrenata.com/contact-me/).
+- 💬 Ask me about Brazil.
+- 📫 How to reach me: [hello@testingwithrenata.com](mailto:hello@testingwithrenata.com)
+- 💁‍♀️ Personal Blog: https://raptatinha.wordpress.com/.
+- ☕ Fun fact: I don't like coffee.
