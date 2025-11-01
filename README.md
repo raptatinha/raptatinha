@@ -16,7 +16,7 @@ E com mais de 18 anos de experiência com Tecnologia, estou aqui para compartilh
 - 💁‍♀️ Blog pessoal: https://raptatinha.wordpress.com/.
 - ☕ Fun fact: Não gosto de café.
 
-<a href="https://www.buymeacoffee.com/raptatinha"><img src="https://img.buymeacoffee.com/button-api/?text=Me compre um sorvetinho&emoji=🍦&slug=raptatinha&button_colour=2e124f&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+[Me compre um sorvetinho 🍦](https://www.buymeacoffee.com/raptatinha)
 ---
 
 🇺🇸
@@ -35,5 +35,5 @@ With over 18 years of experience in IT, I'm here to share the most innovative co
 - 💁‍♀️ Personal Blog: https://raptatinha.wordpress.com/.
 - ☕ Fun fact: I don't like coffee.
 
-<a href="https://www.buymeacoffee.com/raptatinha"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me an icecream&emoji=🍦&slug=raptatinha&button_colour=2e124f&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+[Buy me an icecream 🍦](https://www.buymeacoffee.com/raptatinha)
 ---
